@@ -2,9 +2,16 @@
 
 参考中国计算机学会（CCF）和中国人工智能学会（CAAI）整理的遥感领域推荐学术期刊目录，仅供论文投稿参考。
 
-## CCF-期刊推荐目录
+## [CCF-期刊推荐目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 
-## CAAI-期刊推荐目录
+| 类别 | 期刊简称 | 期刊全称 | 出版社 | 网址 |
+|------|----------|----------|--------|------|
+| B类  | TGRS     | IEEE Transactions on Geoscience and Remote Sensing | IEEE | https://dblp.uni-trier.de/db/journals/tgrs/ |
+| B类  | / | GeoInformatica | Springer |  https://dblp.unitrier.de/db/journals/geoinformatica/ |
+| C类  | GRSL     | IEEE Geoscience and Remote Sensing Letters         | IEEE | http://dblp.uni-trier.de/db/journals/lgrs/  |
+| C类  | IJGIS     | International Journal of Geographical Information Science          | Taylor & Francis | http://dblp.uni-trier.de/db/journals/gis/  |
+
+## [CAAI-期刊推荐目录](https://caai.cn/index.php?s=/home/article/detail/id/4024.html)
 
 | 类别 | 期刊简称 | 期刊全称 | 出版社 | 网址 |
 |------|----------|----------|--------|------|
